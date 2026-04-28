@@ -1,0 +1,7 @@
+{
+  "name": "next-api-gateway",
+  "version": "2.0.1",
+  "description": "API gateway for serverless applications",
+  "private": true,
+  "license": "MIT"
+}
